@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/buttonAddition"
+        style="@style/styleText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/colorAddition"
+        android:text="@string/Addition" />
+
+    <Button
+        android:id="@+id/buttonSubtraction"
+        style="@style/styleText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/colorSubtraction"
+        android:text="@string/Subtraction" />
+
+    <Button
+        android:id="@+id/buttonMultiplication"
+        style="@style/styleText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/colorMultiplication"
+        android:text="@string/Multiplication" />
+
+    <Button
+        android:id="@+id/buttonDivision"
+        style="@style/styleText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/colorDivision"
+        android:text="@string/Division" />
+
+</LinearLayout>

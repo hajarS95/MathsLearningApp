@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">تعلم الرياضيات</string>
+
+    <string name="Addition"> الجمع
+      \n  (+)
+    </string>
+
+    <string name="Subtraction">    الطرح
+            \n         (-)
+    </string>
+
+    <string name="Multiplication">   الضرب
+            \n         (×)
+    </string>
+
+    <string name="Division">    القسمة
+           \n        (÷)
+    </string>
+
+    <string name="titleAddition">
+        الجمع هو عملية زيادة الأرقام (+).
+        \n
+    الجمع عملية تبادلية، الناتج يبقى نفسه إذا بدلنا الأرقام.
+    \n
+    1+2=3 ، 2+1=3
+
+    </string>
+
+    <string name="titleSubtraction">
+        الطرح هو عملية إنقاص الأرقام (-).
+
+    </string>
+
+    <string name="titleMultiplication">
+    الضرب هو تكرار لعملية الجمع (×).
+        \n
+    2 × 3 = 6 ، 2+2+2=6
+    \n
+    الضرب عملية إبدالية.
+    </string>
+
+    <string name="titleDivision">
+        القسمة هي تقسيم العدد وتجزئته (÷)
+
+    </string>
+
+    <string name="Addition1">إجمع عددين</string>
+    <string name="Subtraction1">إطرح عددين</string>
+    <string name="Multiplication1">إضرب عددين</string>
+    <string name="Division1">إقسم عددين</string>
+
+    <string name="AdditionMark">+</string>
+    <string name="SubtractionMark">-</string>
+    <string name="MultiplicationMark">×</string>
+    <string name="DivisionMark">÷</string>
+    <string name="zero">0</string>
+    <string name="equal">=</string>
+    <string name="result">إحسب</string>
+    <string name="sum">1+2</string>
+
+
+</resources>
